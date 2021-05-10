@@ -16,6 +16,13 @@ Tkinter GUI url shortener
 
 ![Screenshot_20210509-005847](https://user-images.githubusercontent.com/74001397/117641296-4669b980-b186-11eb-923d-be23584d11df.jpg)
 
+# Requirements
+-pyshorteners
+
+-pyperclip
+
+-pillow
+
 # Developer
 Richard Mwewa 'rlyonheart'
 
